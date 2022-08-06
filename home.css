@@ -1,0 +1,47 @@
+.centered {
+    background-color:rgb(72, 72, 72);
+    font-size: xx-large;
+    font-weight: 200;
+    position: absolute;
+    top:80%;
+    left: 50%;
+    width: 100%;
+    opacity: 80%;
+    padding-top: 0.2cm;
+    padding-bottom: 0.2cm;
+    text-align: center;
+    transform: translate(-50%, -50%);
+  }
+  .oval{
+    width: 6cm;
+    height: 6cm;
+    border-radius: 4cm;
+  }
+  #intro{
+    color: white;
+  }
+  a {
+    font-size: large;
+    text-decoration: none;
+    font-weight:bold;
+    color: rgb(20, 195, 239);
+  }
+  p{
+    font-size: larger;
+    color:rgb(65,166,149);
+  }
+  .oval_img{
+    margin-top: 2cm;
+    display: flex;
+    justify-content: center;
+    
+  }
+  .hr_line{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+  }
+  .g_img{
+    width: 10cm;
+    height: 6cm;
+  }
